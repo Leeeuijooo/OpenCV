@@ -3,3 +3,4 @@
 
 
 아직 해당 프로젝트의 개설(git lab)이 개설되지 않았음 - 2022.03.26 기준
+[opencv4](https://velog.io/@bangsy/Python-OpenCV-4)
